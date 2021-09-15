@@ -28,15 +28,24 @@ const Tabs = () => {
                     <div className="content-block">
                         <div className={tabToggle === 1 ? "content content-active" : "content" }>
                             <h5>Tab 1</h5>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, enim?</p>
+                            <p>Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex incidunt magni delectus animi consequatur tempora temporibus expedita veritatis! Hic molestiae maiores laudantium! adipisicing elit. Et, enim?</p>
+                            <button>
+                                Download
+                            </button>
                         </div>
                         <div className={tabToggle === 2 ? "content content-active" : "content" }>
                             <h5>Tab 2</h5>
-                            <p>Lorem ipsum consectetur adipisicing dolor sit amet consectetur adipisicing elit. Et, enim?</p>
+                            <p>Lorem ipsum consectetur adipisicing dolor sit amet Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non vitae eius expedita molestiae inventore! Laborum hic facere deleniti ipsa esse! consectetur adipisicing elit. Et, enim?</p>
+                            <button>
+                                Download
+                            </button>
                         </div>
                         <div className={tabToggle === 3 ? "content content-active" : "content" }>
                             <h5>Tab 3</h5>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. amet consectetur adipisicing eli Et, enim?</p>
+                            <p>Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea sequi enim cum nihil accusantium dolorem cumque recusandae blanditiis repellendus eaque! adipisicing elit. amet consectetur adipisicing eli Et, enim?</p>
+                            <button>
+                                Download
+                            </button>
                         </div>
                     </div>
                 </div>
