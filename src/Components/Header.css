@@ -2,8 +2,11 @@
     background-color: black;
     padding: 15px 20px;
     max-height: 70px;
-    position: relative;
+    position: sticky;
+    top: 0;
+    z-index: 100;
     transition: .5s ease-in-out;
+
 }
 .logo img{
     width: 72px;

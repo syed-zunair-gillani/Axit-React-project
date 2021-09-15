@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import {Link} from 'react-router-dom';
+import SocialBar from '../Components/SocialBar';
 const Home = () => {
     return (
         <>
@@ -32,6 +32,7 @@ const Home = () => {
                     </div>
                 </div>
             </section>
+            <SocialBar />
         </>
     )
 }
