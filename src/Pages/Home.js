@@ -7,7 +7,7 @@ const Home = () => {
             <section className="hero">
                 <div className="container flex justify-between hero-wrapper item-center">
                     <div className="content-wrapper">
-                        <h2>AX<span>IT</span></h2>
+                        <h2>AX<span>IT asd</span></h2>
                         <h6>MODERN AXURE TEMPLATE FOR BEAUTIFUL PROTOTYPES</h6>
                         <hr className="hr-line" />
                         <p> Aenean Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aeneanmet, consectetur adipiscing elit. Aenean Lorem ipsum dolor sit amet, consectetur</p>
